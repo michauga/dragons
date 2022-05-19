@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Lvl",
+      "value" : "1"
+    }, {
+      "trait_type" : "Type",
+      "value" : "2"
+    } ],
+    "description" : "A green egg from which a green dragon can be hatched.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmUBBTiwjgHVEG9Ct3HZXrnMFLcuzND7c6nFcMf3auzra8/dragonEgg2.png",
+    "name" : "Green Egg"
+}

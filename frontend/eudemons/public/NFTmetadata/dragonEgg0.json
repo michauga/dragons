@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Lvl",
+      "value" : "1"
+    }, {
+      "trait_type" : "Type",
+      "value" : "0"
+    } ],
+    "description" : "A golden egg from which a golden dragon can be hatched.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmUBBTiwjgHVEG9Ct3HZXrnMFLcuzND7c6nFcMf3auzra8/dragonEgg0.png",
+    "name" : "Golden Egg"
+}

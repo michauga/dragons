@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Lvl",
+      "value" : "2"
+    }, {
+      "trait_type" : "Type",
+      "value" : "1"
+    } ],
+    "description" : "Deadly red dragon.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmUBBTiwjgHVEG9Ct3HZXrnMFLcuzND7c6nFcMf3auzra8/dragon1.jpg",
+    "name" : "Red Dragon"
+}

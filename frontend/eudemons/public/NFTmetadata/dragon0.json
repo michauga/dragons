@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Lvl",
+      "value" : "2"
+    }, {
+      "trait_type" : "Type",
+      "value" : "0"
+    } ],
+    "description" : "Mythical golden dragon.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmUBBTiwjgHVEG9Ct3HZXrnMFLcuzND7c6nFcMf3auzra8/dragon0.jpg",
+    "name" : "Golden Dragon"
+}
